@@ -1,0 +1,2 @@
+thank {{name}} for purchasing {{item}} from our outlat {{outlat}}. please visit our outlat{{outlat}}
+for any kind information . we plan to sever you again soon.
